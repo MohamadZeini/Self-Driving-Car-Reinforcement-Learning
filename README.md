@@ -1,6 +1,7 @@
-# Machine Learning Engineer Nanodegree
-# Reinforcement Learning
-## Project: Train a Smartcab How to Drive
+# Project: Train a Smartcab How to Drive
+## Reinforcement Learning
+
+To see the project refer to smartcab.ipynb file.
 
 ### Install
 
