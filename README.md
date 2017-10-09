@@ -24,3 +24,11 @@ In a terminal or command window, navigate to the top-level project directory `sm
 ```python -m smartcab.agent```
 
 This will run the `agent.py` file and execute your agent code.
+
+### Data
+
+1) logs folder: contains Q-learning saved files.
+`sim_default-learning.csv`, `sim_improved-learning.csv`, `sim_no-learning.csv`
+
+2) smartcab folder: contains main py files.
+`agent.py`, `environment.py`, `planner.py`,	`simulator.py`
